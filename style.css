@@ -3,7 +3,9 @@ body {
     color: white;
 }
 
-
+h1, p {
+    text-align: center;
+}
 
 form {
     width: 500px;
@@ -19,6 +21,6 @@ form {
     border: 2px solid green;
 }
 
-#number {
+#age {
     border: 2px solid orange;
 }
